@@ -19,7 +19,7 @@ La solución a este problema se ha implementado utilizando el patrón de Cadena 
 | 5.000        |
 
 ## Diagrama de clases
-
+![Logo de mi proyecto](graficas/diagrama-clase.png)
 
 Cada eslabón de la cadena representa una denominación y maneja la solicitud si es capaz de hacerlo o la pasa al siguiente eslabón en la jerarquía.
 
